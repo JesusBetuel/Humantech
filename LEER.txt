@@ -1,0 +1,8 @@
+1.- Crear una base de datos llamada teiker_qa, inclui el archivo .sql de las tablas creadas.
+
+2.- Accesos al sistema:
+
+Usuario: jesus.betuel@gmail.com
+Contraseña: Ireport7
+
+3.- El sistema mide 119 mb ya que utilice una plantilla para darle diseño a la prueba.
